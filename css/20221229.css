@@ -115,7 +115,9 @@ body {
     letter-spacing: 15px; 
   } 
   .masthead-brand {
-    float: left; 
+    float: left;
+    font-weight: 300;
+
   }
   .nav-masthead {
     float: left; 
